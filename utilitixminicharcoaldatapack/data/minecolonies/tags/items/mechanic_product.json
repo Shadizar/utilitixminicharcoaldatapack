@@ -1,6 +1,8 @@
 {
 "replace": false,
 "values": [
+    "utilitix:ender_cart",
+	"utilitix:piston_cart",
     "utilitix:tiny_coal",
     "utilitix:tiny_charcoal"
   ]
